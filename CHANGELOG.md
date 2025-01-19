@@ -2,6 +2,62 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-01-19)
+
+<section class="features">
+
+### Features
+
+-   [`5f6bc87`](https://github.com/stdlib-js/stdlib/commit/5f6bc87d96a21664aeb7f4b097f03ba45ebb90ab) - add C implementation for `stats/base/dists/cosine/logcdf` [(#4499)](https://github.com/stdlib-js/stdlib/pull/4499)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3516](https://github.com/stdlib-js/stdlib/issues/3516)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`5f6bc87`](https://github.com/stdlib-js/stdlib/commit/5f6bc87d96a21664aeb7f4b097f03ba45ebb90ab) - **feat:** add C implementation for `stats/base/dists/cosine/logcdf` [(#4499)](https://github.com/stdlib-js/stdlib/pull/4499) _(by Prashant Kumar Yadav)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Prashant Kumar Yadav
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-28)
