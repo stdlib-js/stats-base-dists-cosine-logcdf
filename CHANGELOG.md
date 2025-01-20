@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`33a4af8`](https://github.com/stdlib-js/stdlib/commit/33a4af8ea02d79120618cb4d50edb87d8aeab6a0) - **chore:** remove extra spaces _(by Philipp Burckhardt)_
 -   [`895313e`](https://github.com/stdlib-js/stdlib/commit/895313e08f1006053fd6d995494bdf546002694e) - **docs:** update descriptions _(by Athan Reines)_
 -   [`5f6bc87`](https://github.com/stdlib-js/stdlib/commit/5f6bc87d96a21664aeb7f4b097f03ba45ebb90ab) - **feat:** add C implementation for `stats/base/dists/cosine/logcdf` [(#4499)](https://github.com/stdlib-js/stdlib/pull/4499) _(by Prashant Kumar Yadav)_
 
@@ -47,9 +48,10 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Philipp Burckhardt
 -   Prashant Kumar Yadav
 
 </section>
