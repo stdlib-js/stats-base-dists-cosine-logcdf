@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-07)
+## Unreleased (2026-05-12)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`5e6cc52`](https://github.com/stdlib-js/stdlib/commit/5e6cc5227f955ebcce1827cd5f87261c0ec44001) - **docs:** normalize descriptions in `stats/base/dists/cosine/{ctor,logcdf}` [(#12103)](https://github.com/stdlib-js/stdlib/pull/12103) _(by Philipp Burckhardt)_
 -   [`4f7ce62`](https://github.com/stdlib-js/stdlib/commit/4f7ce6268b30e2030831d35f331b9fe2f6561ff7) - **docs:** fix C codeblocks in `stats/base/dists/cosine/logcdf` [(#10959)](https://github.com/stdlib-js/stdlib/pull/10959) _(by Om-A-osc)_
 -   [`ac2de21`](https://github.com/stdlib-js/stdlib/commit/ac2de219ef2fb87ceb61360e6c267c5ab1e3cdbb) - **style:** replace erroneous tab character with space _(by Philipp Burckhardt)_
 -   [`337e9e8`](https://github.com/stdlib-js/stdlib/commit/337e9e8ceed38e6409a2ec0b2268e79a15dc6ff1) - **bench:** refactor to use string interpolation in `stats/base/dists/cosine` [(#10169)](https://github.com/stdlib-js/stdlib/pull/10169) _(by Bhargav Dabhade)_
