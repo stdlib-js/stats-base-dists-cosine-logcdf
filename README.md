@@ -33,7 +33,7 @@ limitations under the License.
 
 [![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
-> [Raised cosine][cosine-distribution] distribution logarithm of [cumulative distribution function][cdf].
+> [Raised cosine][cosine-distribution] distribution natural logarithm of [cumulative distribution function][cdf].
 
 <section class="intro">
 
